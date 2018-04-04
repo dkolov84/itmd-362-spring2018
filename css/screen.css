@@ -58,6 +58,7 @@ html {
 body {
   font-size: 1.1875em;         /* ~ 19px base font size */
   line-height: 1.2631578947em; /* ~ 24px base line height */
+  background-color: #E6ECD2;
 }
 b,
 strong {
@@ -162,6 +163,7 @@ header {
   padding-bottom: 1.2631578947em;
 }
 footer {
+  text-align: center;
   padding-top: 3.7894736842em; /* ~ 72px @ 19px/em */
 }
 small,
