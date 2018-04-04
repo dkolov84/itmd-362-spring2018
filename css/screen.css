@@ -142,7 +142,7 @@ h4 {
 
 html {
   /* Border for the nav to sit on */
-  border-top: 2.6875em solid #93A341; /* ~ 43px @ 16px/em | 43 = 12 + 19 + 12 from nav */
+  border-top: 2.6875em solid #4fc3f7; /* ~ 43px @ 16px/em | 43 = 12 + 19 + 12 from nav */
 }
 nav {
   position: absolute;
@@ -312,7 +312,7 @@ table, th, td {
 	padding: 0px 10px;
 }
 .tablehead {
-	background-color: #93A341;
+	background-color: #4fc3f7;
 	text-align: center;
   font-weight: 700;
 }
