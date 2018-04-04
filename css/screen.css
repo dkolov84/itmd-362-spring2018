@@ -58,7 +58,7 @@ html {
 body {
   font-size: 1.1875em;         /* ~ 19px base font size */
   line-height: 1.2631578947em; /* ~ 24px base line height */
-  background-color: #4C5D6F;
+  background-color: #8bf6ff;
 }
 b,
 strong {
@@ -75,7 +75,7 @@ ins {
 /* Links */
 a {
   text-decoration: none;
-  color: #567448;
+  color: #4fc3f7;
   border-bottom: 0.05263157895em dotted;
 }
 .preview a {
